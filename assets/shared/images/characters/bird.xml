@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bird.png">
+<SubTexture name="bird Idle0000" x="360" y="0" width="353" height="341" frameX="-41" frameY="-42" frameWidth="425" frameHeight="425" />
+<SubTexture name="bird Idle0001" x="713" y="0" width="352" height="338" frameX="-42" frameY="-45" frameWidth="425" frameHeight="425" />
+<SubTexture name="bird Idle0002" x="372" y="682" width="351" height="336" frameX="-42" frameY="-47" frameWidth="425" frameHeight="425" />
+<SubTexture name="bird Idle0003" x="359" y="1020" width="351" height="334" frameX="-42" frameY="-49" frameWidth="425" frameHeight="425" />
+<SubTexture name="bird Idle0004" x="372" y="682" width="351" height="336" frameX="-42" frameY="-47" frameWidth="425" frameHeight="425" />
+<SubTexture name="bird Idle0005" x="713" y="0" width="352" height="338" frameX="-42" frameY="-45" frameWidth="425" frameHeight="425" />
+<SubTexture name="bird Right0000" x="0" y="342" width="371" height="340" frameX="-47" frameY="-43" frameWidth="425" frameHeight="425" />
+<SubTexture name="bird Right0001" x="0" y="682" width="372" height="338" frameX="-43" frameY="-45" frameWidth="425" frameHeight="425" />
+<SubTexture name="bird Up0000" x="713" y="338" width="341" height="338" frameX="-55" frameY="-43" frameWidth="425" frameHeight="425" />
+<SubTexture name="bird Up0001" x="371" y="342" width="341" height="336" frameX="-55" frameY="-44" frameWidth="425" frameHeight="425" />
+<SubTexture name="bird Left0000" x="723" y="682" width="335" height="336" frameX="-53" frameY="-47" frameWidth="425" frameHeight="425" />
+<SubTexture name="bird Left0001" x="1065" y="0" width="341" height="336" frameX="-52" frameY="-47" frameWidth="425" frameHeight="425" />
+<SubTexture name="bird Down0000" x="0" y="1020" width="359" height="335" frameX="-35" frameY="-52" frameWidth="425" frameHeight="425" />
+<SubTexture name="bird Down0001" x="0" y="0" width="360" height="342" frameX="-33" frameY="-45" frameWidth="425" frameHeight="425" />
+</TextureAtlas>

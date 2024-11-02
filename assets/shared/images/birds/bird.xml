@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bird.png">
+<SubTexture name="bird1" x="0" y="0" width="229" height="272" frameX="0" frameY="-448" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bird2" x="229" y="0" width="228" height="255" frameX="-1" frameY="-465" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bird3" x="0" y="272" width="183" height="219" frameX="0" frameY="-501" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bird4" x="457" y="0" width="218" height="245" frameX="0" frameY="-475" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bird5" x="183" y="272" width="199" height="207" frameX="0" frameY="-513" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

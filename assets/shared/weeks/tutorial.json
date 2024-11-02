@@ -1,0 +1,14 @@
+{
+  "songs": [["crimson-awakening", "Birdicons", [165, 0, 77]]],
+
+  "weekCharacters": ["", "bf", "gf"],
+  "weekBackground": "stage",
+
+  "storyName": "",
+  "weekBefore": "",
+  "weekName": "",
+  "startUnlocked": true,
+  "difficulty": "Normal",
+  "hideStoryMode": false,
+  "hideFreeplay": false
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pig.png">
+<SubTexture name="pig1" x="0" y="0" width="320" height="266" frameX="-960" frameY="-454" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pig2" x="320" y="0" width="214" height="218" frameX="-1066" frameY="-502" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pig3" x="244" y="266" width="227" height="209" frameX="-1053" frameY="-511" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pig4" x="0" y="266" width="244" height="215" frameX="-1036" frameY="-505" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>
